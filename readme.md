@@ -13,7 +13,7 @@ Foram utilizados algumas bibliotecas do Node, são elas:
 * Morgan
 Para salvar os logs no ambiente de desenvolvimento, para ver as requisições em tempo real.
 
-![image-20220401190752081](C:\Users\alexs\Documents\Rocketseat\projeto 3\images\image-20220401190752081.png) 
+![image-20220401190752081](https://github.com/alexsanderaf/NodeJS-api/blob/main/images/image-20220401190752081.png) 
 
 
 
@@ -37,7 +37,7 @@ Para salvar os logs no ambiente de desenvolvimento, para ver as requisições em
 
 * /GET
 
-![image-20220401191551608](C:\Users\alexs\Documents\Rocketseat\projeto 3\images\image-20220401191551608.png)
+![image-20220401191551608](https://github.com/alexsanderaf/NodeJS-api/blob/main/images/image-20220401191551608.png)
 
 
 
@@ -45,7 +45,7 @@ Para salvar os logs no ambiente de desenvolvimento, para ver as requisições em
 
 
 
-![image-20220401191703301](C:\Users\alexs\Documents\Rocketseat\projeto 3\images\image-20220401191703301.png)
+![image-20220401191703301](https://github.com/alexsanderaf/NodeJS-api/blob/main/images/image-20220401191703301.png)
 
 
 
